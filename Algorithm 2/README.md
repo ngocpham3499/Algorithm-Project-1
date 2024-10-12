@@ -1,6 +1,6 @@
 Algorithm 2: Greedy Approach to Hamiltonian Problem
 
-This algorithm focuses on identifying the optimal starting city given that the cities are arranged in a circl and each city has a gas station. 
+This algorithm focuses on identifying the optimal starting city given that the cities are arranged in a circle and each city has a gas station. 
 The key inputs are:
 
 1. city_distances: the distances between neighboring cities
